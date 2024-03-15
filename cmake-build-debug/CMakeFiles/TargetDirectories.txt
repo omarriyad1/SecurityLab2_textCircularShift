@@ -1,0 +1,3 @@
+D:/Sana_Rab3a/c++/TextCircularShift/cmake-build-debug/CMakeFiles/TextCircularShift.dir
+D:/Sana_Rab3a/c++/TextCircularShift/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Sana_Rab3a/c++/TextCircularShift/cmake-build-debug/CMakeFiles/rebuild_cache.dir
